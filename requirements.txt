@@ -1,0 +1,4 @@
+gradio
+tensorflow
+huggingface_hub
+librosa
